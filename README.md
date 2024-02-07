@@ -27,7 +27,7 @@ The primary objective of this project is to create a reliable machine learning m
 ## Tools and Technologies:
 
 - Programming Language: Python
-- Libraries: Pandas, NumPy, Scikit-learn, TensorFlow or PyTorch (for neural networks)
+- Libraries: Pandas, NumPy, Scikit-learn, tabulate, warnings
 - Visualization: Matplotlib, Seaborn
 - Version Control: Git
 - Documentation: Jupyter Notebooks, Markdown
